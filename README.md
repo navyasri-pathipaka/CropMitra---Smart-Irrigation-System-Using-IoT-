@@ -110,6 +110,7 @@ Crop disease detection with solutions
 
 
 **👨‍💻 Team Members**
+
 K. Sri Harsha – 24R05A0524
 
 M. Navya – 24R05A0527
