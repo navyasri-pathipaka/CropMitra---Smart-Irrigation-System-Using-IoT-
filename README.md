@@ -1,3 +1,5 @@
+[Project Document](https://github.com/navyasri-pathipaka/CropMitra---Smart-Irrigation-System-Using-IoT-/blob/main/crop_mitra.pdf)
+
 # 🌱 CropMitra – IoT-Based Smart Irrigation System
 CropMitra is an IoT-powered irrigation solution designed to help farmers optimize water usage, automate irrigation, and boost crop productivity. By integrating soil and weather sensors with real-time monitoring, the system ensures efficient water management and supports sustainable agriculture.
 
