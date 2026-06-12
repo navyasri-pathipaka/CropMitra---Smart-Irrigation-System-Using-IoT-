@@ -1,4 +1,4 @@
-[Project Document](https://github.com/navyasri-pathipaka/CropMitra---Smart-Irrigation-System-Using-IoT-/blob/main/crop_mitra.pdf)
+[Project Document](https://github.com/navyasri-pathipaka/CropMitra-Smart-Irrigation-System/blob/main/crop_mitra.pdf)
 
 # 🌱 CropMitra – IoT-Based Smart Irrigation System
 
